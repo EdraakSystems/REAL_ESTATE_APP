@@ -12,3 +12,9 @@ Sales and Purchase: The app also allows users to track their sales and purchases
 
 # Target Audience
 This app is designed for anyone who is involved in the real estate industry, whether as a buyer, seller, renter, or manager. This can include real estate agents, property developers, landlords, property managers, and individual homeowners.
+
+
+# Installation 
+npm / yarn install 
+# Run Project 
+npm react-native run-android
